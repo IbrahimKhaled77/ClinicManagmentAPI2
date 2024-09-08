@@ -21,7 +21,7 @@ namespace ClinicManagementAPI.Controller
 
         public async Task<IActionResult> TestMethod()
         {
-            //declaration 
+            //declaration sa
             try
             {
 
